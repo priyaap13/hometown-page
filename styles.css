@@ -10,7 +10,10 @@ DARK BLUE: #1D3557
 
 body{
     margin: 0;
+<<<<<<< HEAD
     padding: 0 10px;
+=======
+>>>>>>> c95af1c68a62fa7295e574c4536626931cfe33e8
     text-align: center;
      background-color: #C6A784; 
      color: #6E3611;
@@ -21,7 +24,11 @@ body{
     margin-top:0px;
     background: #fefae0;
     text-shadow: 0px 0px 5px 6E3611;
+<<<<<<< HEAD
     border-radius: 10px;
+=======
+    border-radius: 5px;
+>>>>>>> c95af1c68a62fa7295e574c4536626931cfe33e8
 }
 #subtitle{
     margin-top: 0px;
@@ -54,6 +61,7 @@ body{
     background-image: url("./images/Birla_Mandir.png");
 }
 
+<<<<<<< HEAD
 .img-1:hover{
     transform:scale(1.3);
 }
@@ -66,6 +74,8 @@ body{
     transform: scale(1.3)
 }
 
+=======
+>>>>>>> c95af1c68a62fa7295e574c4536626931cfe33e8
 .place-img-museum{
      background-image: url("./images/museum.jpg");
 }
@@ -97,11 +107,14 @@ body{
    justify-content:space-between; 
   border-bottom: 10px solid #283618; 
   margin-bottom: 40px; 
+<<<<<<< HEAD
 
 }
 
 #container:hover{
     transform: scale(1.1)
+=======
+>>>>>>> c95af1c68a62fa7295e574c4536626931cfe33e8
 }
 
 .sub-title{
